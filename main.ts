@@ -43,7 +43,6 @@ function checkPitch(pitch: string): void {
   // The entry is one sentence, so it ends the way a sentence ends.
   if (!/[.!?]$/.test(pitch)) fail("pitch must end with sentence punctuation");
 }
-}
 
 const botDir = process.env.MAKEFUN_BOT_DIR ?? "/bot";
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
