@@ -1,0 +1,1 @@
+Tell me your app idea in plain words and I'll have an AI agent build the first working version while you watch — you just say what to change, and you keep whatever comes out.
